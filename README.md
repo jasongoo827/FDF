@@ -29,9 +29,13 @@
 
 ![42FDF](images/julia.png)
 
+<br>
+
 ## 좀 더 이론적인 설명이 궁금하다면
 - [Isometric Projection](md/Isometric.md)
 - [Bremenham 알고리즘](md/Bremenham.md)
+
+<br>
 
 ## 프로젝트를 직접 테스트해보고 싶다면
 
