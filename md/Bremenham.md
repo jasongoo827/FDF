@@ -47,7 +47,7 @@ P0 = 2dy * x[0] - 2dx * y[0] + 2dy + 2dx * y[0] - 2dy * x[0] - dx
 <br>
 
 정수 알고리즘임이 증명됐으니, Pk를 이용해서 점을 찍을 수 있다.
-``
+
 ```c
 
 // Pk = dx(d_lower - d_upper)
