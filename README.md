@@ -33,7 +33,7 @@
 
 ## 좀 더 이론적인 설명이 궁금하다면
 - [Isometric Projection](md/Isometric.md)
-- [Bremenham 알고리즘](md/Bremenham.md)
+- [Bremenham 알고리즘](md/Bresenham.md)
 
 <br>
 
